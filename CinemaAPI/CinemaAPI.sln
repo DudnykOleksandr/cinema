@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAPI", "CinemaAPI.csproj", "{6DAAA796-208F-44E1-B18A-164473A97623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "..\Tests\Tests.csproj", "{EEF95937-D33A-4DEE-8016-DBA5DFD9F8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DAAA796-208F-44E1-B18A-164473A97623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAAA796-208F-44E1-B18A-164473A97623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAAA796-208F-44E1-B18A-164473A97623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAAA796-208F-44E1-B18A-164473A97623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF95937-D33A-4DEE-8016-DBA5DFD9F8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF95937-D33A-4DEE-8016-DBA5DFD9F8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF95937-D33A-4DEE-8016-DBA5DFD9F8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF95937-D33A-4DEE-8016-DBA5DFD9F8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478136BF-F0A3-4667-8D70-7A7572333380}
+	EndGlobalSection
+EndGlobal
